@@ -1,4 +1,4 @@
-package m.vk.k011_normalthread
+package m.vk.k012_handlerthread
 
 import org.junit.Test
 

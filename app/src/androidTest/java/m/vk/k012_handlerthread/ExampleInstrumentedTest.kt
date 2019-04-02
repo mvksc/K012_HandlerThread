@@ -1,4 +1,4 @@
-package m.vk.k011_normalthread
+package m.vk.k012_handlerthread
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getTargetContext()
-        assertEquals("m.vk.k011_normalthread", appContext.packageName)
+        assertEquals("m.vk.k012_handlerthread", appContext.packageName)
     }
 }
